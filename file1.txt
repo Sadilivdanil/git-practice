@@ -1,0 +1,4 @@
+--- MERGE RESOLVED 11.02.2026 ---
+[master] configuration settings
+[vetka-1] branch features
+[both] merged content
